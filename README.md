@@ -1,0 +1,1 @@
+# ugo-php-simple-mailer
